@@ -1,0 +1,97 @@
+span{
+    color: rgb(174, 119, 226);
+}
+body{
+font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+section{
+    display: flex;
+}
+.half{
+    width: 50%;
+}
+.half img{
+    width: 80%;
+}
+.clr{
+    background-image: linear-gradient(rgb(52, 52, 250), rgb(159, 159, 231));
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: 600;
+}
+.link-button{
+    text-decoration: none;
+}
+.myself img{
+    width: 80%;
+    height: 600px;
+}
+.color {
+    color: grey;
+}
+.myself{
+    width: 60%;
+    height: 600px;
+    text-align: center; 
+}
+.pink{
+    background-image: linear-gradient(rgb(247, 53, 85), pink);
+    color: lavender;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: 600;
+}
+.background{
+    background-image: url(images/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+}
+footer p{
+    text-align: center;
+}
+footer h2{
+    text-align: center;
+}
+.font{
+    color: rgba(115, 91, 146, 0.966);
+}
+.my{
+    width: 23%;
+    margin-left:5%;
+    margin-right:5%;
+    padding: 10px;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 20px;
+}
+.my img{
+    width: 85%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+} 
+footer h2{
+    text-align: center;
+    font-weight: 700;
+}
+.blue{
+    background-color: rgb(39, 36, 32);
+    padding: 20px;
+    margin-top: 100px;
+}
+.mar{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.yellow{
+    color: yellow;
+}
+.white{
+    color: gray;
+}
+.eat{
+    color: white;
+}
